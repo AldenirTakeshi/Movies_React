@@ -1,4 +1,5 @@
 import React from "react";
+import "./MovieGrid.css";
 import { useState, useEffect } from "react";
 import MovieCard from "../components/MovieCard";
 
